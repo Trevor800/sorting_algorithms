@@ -31,7 +31,7 @@ print_array(array, size);
 }
 }
 
-if (swapped)
+if (!swapped)
 break;
 }
 }
